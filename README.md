@@ -1,6 +1,5 @@
-# PROJETO ONFLY✈️ 💙
+# PROJETO N8N + DOKCER (NODEJS)
 
-<img src="imagens/Onfly.gif" align="center" style="width:100%;" alt="Descrição do gif">
 
 ---
 ## 📂 Estrutura do projeto
