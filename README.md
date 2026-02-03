@@ -41,8 +41,8 @@ Precisa ter instalado em sua maquina:
 
 1. Primeiro, clona o repo:
 ```bash
-git clone https://github.com/VianaLeo13/ProjetoOnfly.git
-cd ProjetoOnfly
+git clone https://github.com/VianaLeo13/N8N-DOCKER.git
+cd N8N-DOCKER
 ```
 
 2. Entrar na pasta
