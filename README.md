@@ -5,7 +5,7 @@
 ## 📂 Estrutura do projeto
 
 ```text
-📦 ProjetoOnfly
+📦  N8N-DOCKER
 ├── 📁 custom_nodes
 │   └── 📁 Random
 │       ├── 📄 icon.svg
@@ -159,7 +159,7 @@ docker-compose logs -f
 
 ## OBRIGADO!
 
-- Obrigado Onfly , pela oportunidade deste teste desafiador! 
+
 
 
 
